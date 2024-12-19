@@ -5,7 +5,7 @@ $ gcc -o quine quine.c
 ```
 To dump output in file
 ```sh
-$ ./quine quine.out
+$ ./quine > quine.out
 ```
 and to check for equality
 ```sh
